@@ -14,7 +14,7 @@ The main languages, tools and packages used is listed here:
 * HTML, CSS ([Bootstrap v5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)), JavaScript
 * [Node JS](https://nodejs.org/en/), [Express](https://expressjs.com/)
 * [EJS Templating engine](https://ejs.co/)
-* [MongoDB](https://www.mongodb.com/) and Mongoose ODM
+* [MongoDB](https://www.mongodb.com/) and [Mongoose ODM](https://mongoosejs.com/)
 * [Cloudinary](https://cloudinary.com/) - used to store images from campgrounds
 * [Passport](http://www.passportjs.org/) - used for authentication
 * [Mapbox](https://www.mapbox.com/)
