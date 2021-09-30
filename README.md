@@ -6,8 +6,8 @@ The completed web app is deployed using Heroku and can be found [here](https://l
 ## What the project does
 YelpCamp is a website for sharing and reviewing campgrounds. Users have to be logged in to be allowed to post a campground or review. Only the user who has posted the campground or review is able to edit or delete it. Users can leave a review on a campground made by another user.
 
-<img src="images/homepage.png" width="230"> <img src="images/campgroundspage.png" width="230" height="203">
-<img src="images/showpage.png" height="203">
+<img src="readme_images/homepage.png" width="230"> <img src="readme_images/campgroundspage.png" width="230" height="203">
+<img src="readme_images/showpage.png" height="203">
 
 ## Technical details
 The main languages, tools and packages used is listed here:
