@@ -1,5 +1,5 @@
 # YelpCamp
-This is a Fullstack website developed through the Udemy Course [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) created by Colt Steele.
+This is a Fullstack website developed in connection with the Udemy Course [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) created by Colt Steele.
 
 The completed web app is deployed using Heroku and can be found [here](https://limitless-beyond-02363.herokuapp.com/).
 
